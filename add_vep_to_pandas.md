@@ -120,4 +120,5 @@ merge_vep_data(patients, vep)
 ```
 ### Notes
 
-In the above workflow I am going with canonicals rather than worse, so the consequence may differ from the tiering table.
+In the above workflow I am going with canonicals rather than worse, 
+so the consequence may differ from the tiering table.
