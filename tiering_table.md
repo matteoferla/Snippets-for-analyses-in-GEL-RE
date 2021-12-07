@@ -34,6 +34,8 @@ print(f'There are {len(participants)} participants')
 No column name has spaces or is a reserved keyword (like `rank` or `id`):
 they can all cannot be accessed as an attribute. (_cf._ `print(participant.columns)`)
 
+For what the columns and what values to expect are see [mirror_jupyters.md](mirror_jupyters.md).
+
 ## Multiples
 
 One thing to note is that there are multiple entries per `position` for a `participant_id`.
